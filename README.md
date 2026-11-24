@@ -11,6 +11,16 @@ Developer on GitHub since 2017. I build AI agents, realtime voice AI and ML syst
 </picture>
 
 <!-- OSS-CONTRIBUTIONS:START -->
+## Open-source contributions
+
+Fixes I've contributed to the AI and agent tools I use every day: 3 pull requests across 3 projects, 0 merged so far.
+
+<table>
+<tr><th align="left">Project</th><th align="left">Pull request</th><th align="left">Status</th></tr>
+<tr><td><img src="https://github.com/OpenHands.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/OpenHands/OpenHands"><b>OpenHands/OpenHands</b></a><br><sub>★ 94.2k · TypeScript</sub></td><td><a href="https://github.com/OpenHands/OpenHands/pull/20041">fix: bypass first-run spinner when local Agent Server is unreachable</a> <sub>#20041</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
+<tr><td><img src="https://github.com/CopilotKit.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/CopilotKit/CopilotKit"><b>CopilotKit/CopilotKit</b></a><br><sub>★ 38.9k · TypeScript</sub></td><td><a href="https://github.com/CopilotKit/CopilotKit/pull/8559">fix(channels-core,runtime): fix Cloudflare Workers compatibility (#8539)</a> <sub>#8559</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
+<tr><td><img src="https://github.com/assistant-ui.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/assistant-ui/assistant-ui"><b>assistant-ui/assistant-ui</b></a><br><sub>★ 13.4k · TypeScript</sub></td><td><a href="https://github.com/assistant-ui/assistant-ui/pull/10830">fix(cli): increase create download timeout to 120 s, add env override</a> <sub>#10830</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
+</table>
 <!-- OSS-CONTRIBUTIONS:END -->
 
 ## Tech stack
