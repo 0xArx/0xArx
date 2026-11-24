@@ -3,7 +3,7 @@
   <img src="assets/banner-light.svg" alt="Abdulrahman Shahzad, AI engineer building agents that take real actions, and the guardrails that keep them honest." width="100%">
 </picture>
 
-Developer on GitHub since 2017. I build AI agents, realtime voice AI and ML systems, and I contribute fixes to the open-source AI tools I use every day. University of Toronto, Machine Learning.
+Developer on GitHub since 2017. I build AI agents, realtime voice AI and ML systems, and I contribute fixes to the open-source AI tools I use every day. Machine Learning graduate.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
