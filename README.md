@@ -13,13 +13,14 @@ Developer on GitHub since 2017. I build AI agents, realtime voice AI and ML syst
 <!-- OSS-CONTRIBUTIONS:START -->
 ## Open-source contributions
 
-Fixes I've contributed to the AI and agent tools I use every day: 3 pull requests across 3 projects, 0 merged so far.
+Fixes I've contributed to the AI and agent tools I use every day: 4 pull requests across 3 projects, 0 merged so far.
 
 <table>
 <tr><th align="left">Project</th><th align="left">Pull request</th><th align="left">Status</th></tr>
+<tr><td><img src="https://github.com/assistant-ui.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/assistant-ui/assistant-ui"><b>assistant-ui/assistant-ui</b></a><br><sub>★ 13.5k · TypeScript</sub></td><td><a href="https://github.com/assistant-ui/assistant-ui/pull/10965">ci: runs every shared helper test in required checks</a> <sub>#10965</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
 <tr><td><img src="https://github.com/huggingface.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/huggingface/chat-ui"><b>huggingface/chat-ui</b></a><br><sub>★ 11.1k · TypeScript</sub></td><td><a href="https://github.com/huggingface/chat-ui/pull/2791">mcp: inject resume nudge when previous turn was interrupted by output limit</a> <sub>#2791</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
 <tr><td><img src="https://github.com/CopilotKit.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/CopilotKit/CopilotKit"><b>CopilotKit/CopilotKit</b></a><br><sub>★ 39.0k · TypeScript</sub></td><td><a href="https://github.com/CopilotKit/CopilotKit/pull/8559">fix(channels-core,runtime): fix Cloudflare Workers compatibility (#8539)</a> <sub>#8559</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
-<tr><td><img src="https://github.com/assistant-ui.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/assistant-ui/assistant-ui"><b>assistant-ui/assistant-ui</b></a><br><sub>★ 13.4k · TypeScript</sub></td><td><a href="https://github.com/assistant-ui/assistant-ui/pull/10830">fix(cli): allow slower create and agent downloads</a> <sub>#10830</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
+<tr><td><img src="https://github.com/assistant-ui.png?size=40" width="20" height="20" align="center" alt=""> <a href="https://github.com/assistant-ui/assistant-ui"><b>assistant-ui/assistant-ui</b></a><br><sub>★ 13.5k · TypeScript</sub></td><td><a href="https://github.com/assistant-ui/assistant-ui/pull/10830">fix(cli): allow slower create and agent downloads</a> <sub>#10830</sub></td><td><img src="https://img.shields.io/badge/in%20review-2da44e?style=flat-square" alt="in review"></td></tr>
 </table>
 <!-- OSS-CONTRIBUTIONS:END -->
 
